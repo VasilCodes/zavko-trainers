@@ -1,4 +1,5 @@
-# Game Hacks Collection
+# zavko's trainers
+## Game Hacks Collection
 
 A collection of **game hacking techniques and memory manipulation examples** for educational purposes. This project demonstrates how games store and manipulate data and how memory can be read or modified at runtime.
 
